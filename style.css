@@ -1,0 +1,104 @@
+html {
+    scroll-behavior: smooth;
+  }
+body 
+{
+    overflow-x: hidden;
+    background-color: black;
+    
+}
+
+#header
+{
+    background-color: black;
+    /* border-bottom: 1px solid white; */
+    position: sticky;
+}
+.hb
+{
+    background-color: black;
+    border-color: black;
+    margin-left: 10px;
+}
+#ps
+{
+    padding-top: 350px;
+    background-image: -webkit-gradient(linear,left bottom,left top,from(#000),to(#172229)),-webkit-gradient(linear,left top,left bottom,from(#000),to(#000));
+    background-image: linear-gradient(0deg,#000,#172229),linear-gradient(180deg,#000,#000);
+}
+#abt
+{
+    padding-top: 325px;
+}
+
+#adr
+{
+    padding-bottom: 10px;
+}
+
+#link
+{
+    padding-bottom: 10px;
+}
+
+#tecq
+{
+    padding-top: 135px;
+}
+
+#cer
+{
+    padding-top: 100px;
+}
+
+
+.maindiv
+{
+    border-left: 5px aqua;
+    border-style: solid;
+}
+.edugrp
+{
+    margin-left: 50px;
+}
+
+#edu
+{
+    padding-top: 100px;
+    position: relative;
+    top: 150px;
+}
+
+#aoi
+{
+    padding-top: 165px;
+}
+.box
+{
+    transition: 1s;
+
+}
+.box:hover
+{
+    transform: scale(1.1);
+    z-index: 2;
+    box-shadow: 2px 2px 2px #000;  
+}
+#imglink
+{
+    position: relative;
+    margin-left: 270px;
+    bottom: 45px;
+}
+
+#imglink1
+{
+    position: relative;
+    margin-left: 225px;
+    bottom: 45px;
+}
+#pro
+{
+ padding-top: 100px;
+}
+
